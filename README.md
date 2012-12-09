@@ -1,4 +1,4 @@
-SimpleGet
+Simple Get
 =========
 
 SimpleGet? is an extension for Chromium based web browser. It calls you preferred download manager passing an URL.
