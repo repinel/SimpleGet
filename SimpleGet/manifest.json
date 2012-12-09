@@ -1,0 +1,27 @@
+{
+	"name": "Simple Get",
+	"description": "Send the link to an external download manager.",
+	"version": "2.3",
+
+	"homepage_url": "http://simple-get.googlecode.com",
+	"update_url": "http://pinel.cc/files/simple-get/updates.xml",
+
+	"permissions": ["contextMenus", "tabs", "http://*/*",
+					"https://*/*", "ftp://*/*", "file:///*/*"],
+
+	"options_page": "options.html",
+
+	"background_page": "background.html",
+
+	"icons": {
+		"32": "simpleget_32.png",
+		"48": "simpleget_48.png"
+	},
+
+	"plugins": [
+		{ "path": "libsimpleGetPlugin.so", "public": false },
+		{ "path": "libsimpleGetPlugin64.so", "public": false },
+		{ "path": "npsimpleGetPlugin.dll", "public": false }
+	]
+}
+

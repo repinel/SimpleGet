@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+	<app appid='elkoeecmkhmafppljmdnikhohhhjikjk'>
+		<updatecheck codebase='http://www.chromeextensions.org/wp-content/uploads/2010/12/SimpleGet-2.3.crx' version='2.3' />
+	</app>
+</gupdate>
+

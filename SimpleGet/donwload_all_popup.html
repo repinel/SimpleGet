@@ -1,0 +1,168 @@
+<!-- Copyright 2011 Roque Pinel. -->
+
+<!-- This file is part of Simple Get. -->
+
+<!-- Licensed under the Apache License, Version 2.0 (the "License"); -->
+<!-- you may not use this file except in compliance with the License. -->
+<!-- You may obtain a copy of the License at -->
+
+<!--      http://www.apache.org/licenses/LICENSE-2.0 -->
+
+<!-- Unless required by applicable law or agreed to in writing, software -->
+<!-- distributed under the License is distributed on an "AS IS" BASIS, -->
+<!-- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. -->
+<!-- See the License for the specific language governing permissions and -->
+<!-- limitations under the License. -->
+
+<html>
+	<head>
+		<title>Download All - Selection</title>
+	</head>
+	
+	<script type="text/javascript" src="donwload_all_popup.js"></script>
+
+	<style type="text/css" media="screen">
+		body
+		{
+			font: normal 13px "Trebuchet MS", Arial, Helvetica, sans-serif;
+			background: #b5b5b5;
+			width: 700px;
+		}
+
+		#title
+		{
+			padding: 20px 0px 20px 0px;
+		}
+
+		#extensions
+		{
+			width: 400px;
+		}
+
+		#buttons
+		{
+			text-align: right;
+			margin: 0px 15px 20px 0px;
+		}
+
+			/* ---- tables ---- */
+
+		table
+		{
+			empty-cells: show;
+			font-size: 100%;
+			border-collapse: separate;
+			border-spacing: 0;
+		}
+
+		table.sortable
+		{
+			border-collapse: collapse;
+		}
+
+		table.sortable td
+		{
+			padding: 0;
+		}
+
+		table.sortable a.sortheader
+		{
+			background-color: #EEEEEE;
+			color: #666666;
+			font-weight: bold;
+			text-decoration: none;
+			display: block;
+		}
+
+		table.sortable span.sortarrow
+		{
+			color: #000000;
+			text-decoration: none;
+		}
+
+		.table-data
+		{
+			border: 1px solid #666666;
+			background: #FFFFFF;
+			overflow-y: scroll;
+			width: 680px;
+			height: 250px;
+			margin-top: 10px;
+		}
+
+		.td-attrib-header /* extends .fieldlabel */
+		{
+			background: #E8E8E8;
+			border: 1px solid #666666;
+			border-top: none;
+			border-left: none;
+			text-align: center;
+		}
+
+			/* ---- Fields ---- */
+
+		.fieldlabel, .td-attrib-header
+		{
+			font-size: 12px;
+			font-weight: bold;
+			color: #666666;
+		}
+	
+		.fieldvalue, .td-attrib-data
+		{
+			font-size: 12px;
+			font-weight: normal;  
+		}
+
+		.example
+		{
+			font-size: 80%;
+			color: #555;
+			margin-left:20px;
+		}
+	</style>
+
+	<body onload="list_links()">
+		<div id="content">
+			<span id="title">Select the URLs:</span>
+
+			<div class="table-data">
+				<table class="sortable" id="linksTable" width="100%">
+					<tr style="position:fixed">
+						<td class="td-attrib-header" width="20px">
+							<input type="checkbox" name="checkAll" checked="checked" onClick="select_all(this)"/>
+						</td>
+						<td class="td-attrib-header" width="644px">URL</td>
+					</tr>
+				</table>
+			</div>
+
+			<div id="filters">
+				<table aling="center">
+					<tr>
+						<td><label>Extensions:</label></td>
+						<td><input id="extensions" type="text"></td>
+					</tr>
+					<tr>
+						<td>
+							<div class="example">
+								Comma-separated values:<br>
+								avi, mp3
+							</div>
+						</td>
+						<td align="right">
+							<button onclick="eval_extensions('check')">Check</button>
+							<button onclick="eval_extensions('uncheck')">Uncheck</button>
+						</td>
+					</tr>
+				</table>
+			</div>
+
+			<div id="buttons">
+				<button onClick="download_all()">Download</button>
+				<button onClick="self.close()">Cancel</button>
+			</div>
+		</div>
+	</body>
+</html>
+
