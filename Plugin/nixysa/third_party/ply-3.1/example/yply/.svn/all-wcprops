@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/example/yply
+END
+yply.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/example/yply/yply.py
+END
+ylex.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/example/yply/ylex.py
+END
+yparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/example/yply/yparse.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/example/yply/README
+END

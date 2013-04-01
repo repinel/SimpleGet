@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb
+END
+libgoogle-gflags-dev.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/libgoogle-gflags-dev.dirs
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/compat
+END
+libgoogle-gflags0.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/libgoogle-gflags0.dirs
+END
+libgoogle-gflags-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/libgoogle-gflags-dev.install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/changelog
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/docs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/copyright
+END
+libgoogle-gflags0.install
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/libgoogle-gflags0.install
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/packages/deb/rules
+END

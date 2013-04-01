@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/73/trunk/nixysa
+END
+nullable_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/trunk/nixysa/nullable_binding.py
+END
+js_header_generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/63/trunk/nixysa/js_header_generator.py
+END
+js_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/26/trunk/nixysa/js_utils.py
+END
+enum_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/24/trunk/nixysa/enum_binding.py
+END
+header_generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/nixysa/header_generator.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/nixysa/__init__.py
+END
+by_value_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/trunk/nixysa/by_value_binding.py
+END
+cpp_header_generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/nixysa/cpp_header_generator.py
+END
+cpp_utils_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/nixysa/cpp_utils_unittest.py
+END
+java_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/nixysa/java_utils.py
+END
+cpp_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/26/trunk/nixysa/cpp_utils.py
+END
+codereview.settings
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/70/trunk/nixysa/codereview.settings
+END
+by_pointer_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/53/trunk/nixysa/by_pointer_binding.py
+END
+syntax_tree_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/nixysa/syntax_tree_unittest.py
+END
+codegen.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/66/trunk/nixysa/codegen.py
+END
+syntax_tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/12/trunk/nixysa/syntax_tree.py
+END
+naming_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/nixysa/naming_test.py
+END
+unsized_array_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24/trunk/nixysa/unsized_array_binding.py
+END
+naming.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/nixysa/naming.py
+END
+pod_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/67/trunk/nixysa/pod_binding.py
+END
+writer.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/26/trunk/nixysa/writer.py
+END
+globals_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/24/trunk/nixysa/globals_binding.py
+END
+npapi_generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/nixysa/npapi_generator.py
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/25/trunk/nixysa/log.py
+END
+codegen.bat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/nixysa/codegen.bat
+END
+idl_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/33/trunk/nixysa/idl_parser.py
+END
+codegen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/nixysa/codegen.sh
+END
+locking.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/55/trunk/nixysa/locking.py
+END
+callback_binding.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/29/trunk/nixysa/callback_binding.py
+END
+npapi_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/nixysa/npapi_utils.py
+END

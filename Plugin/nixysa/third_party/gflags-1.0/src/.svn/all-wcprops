@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/config.h.in
+END
+gflags_reporting.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags_reporting.cc
+END
+gflags_completions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags_completions.cc
+END
+gflags_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags_unittest.cc
+END
+gflags.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags.cc
+END
+gflags_unittest-main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags_unittest-main.cc
+END
+gflags_completions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags_completions.sh
+END
+gflags_unittest_main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags_unittest_main.cc
+END
+gflags_unittest_flagfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags_unittest_flagfile
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/config.h
+END
+gflags_unittest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags_unittest.sh
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/52/trunk/examples/complex
+END
+complex.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/examples/complex/complex.sln
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/examples/complex/test.html
+END
+plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/examples/complex/plugin.cc
+END
+complex.def
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/examples/complex/complex.def
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/examples/complex/SConstruct
+END
+complex.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/examples/complex/complex.vcproj
+END
+complex.rc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/examples/complex/complex.rc
+END
+complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/examples/complex/complex.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/examples/complex/README
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/examples/complex/resource.h
+END
+complex.idl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9/trunk/examples/complex/complex.idl
+END

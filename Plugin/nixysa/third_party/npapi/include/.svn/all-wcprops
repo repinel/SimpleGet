@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/68/trunk/third_party/npapi/include
+END
+npruntime.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/58/trunk/third_party/npapi/include/npruntime.h
+END
+nptypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/58/trunk/third_party/npapi/include/nptypes.h
+END
+npfunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/58/trunk/third_party/npapi/include/npfunctions.h
+END
+npapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/68/trunk/third_party/npapi/include/npapi.h
+END

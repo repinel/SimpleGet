@@ -1,0 +1,62 @@
+<!--
+Copyright 2009 Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+This file demonstrates how to use the generated Complex plug-in.
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>
+Complex sample.
+</title>
+<script>
+
+/**
+ * Logs text into the <pre> tag.
+ */
+function log(text) {
+  var div = document.getElementById('output');
+  div.innerHTML += text + '\n';
+}
+
+/**
+ * Converts a complex into a string representation.
+ */
+function complexToString(complex) {
+  return '(' + complex.real + ', ' + complex.imaginary + ')';
+}
+
+function init() {
+  var plugin = document.getElementById('plugin');
+  var c1 = plugin.Complex(1, 2);
+  var c2 = plugin.Complex(3, 4);
+  log(complexToString(c1) + ' + ' + complexToString(c2) + ' = ' +
+      complexToString(c1.add(c2)));
+  log(complexToString(c1) + ' * ' + complexToString(c2) + ' = ' +
+      complexToString(c1.mul(c2)));
+  log('|' + complexToString(c2) + '| = ' + c2.norm());
+  log('|' + complexToString(c1) + '|^2 = ' + c1.norm2());
+}
+
+</script>
+</head>
+<body onload='init()'>
+<pre id='output'></pre>
+<object type='application/complex' id='plugin' width='0' height='0'> </object>
+</body>
+</html>

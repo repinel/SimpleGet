@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/third_party/gflags-1.0
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/ChangeLog
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/ltmain.sh
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/configure.ac
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/libtool
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/install-sh
+END

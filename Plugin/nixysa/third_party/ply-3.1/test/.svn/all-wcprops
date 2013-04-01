@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test
+END
+yacc_simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_simple.py
+END
+yacc_unused_rule.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_unused_rule.py
+END
+lex_state_noerror.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_state_noerror.py
+END
+lex_re2.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_re2.py
+END
+yacc_badid.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_badid.py
+END
+yacc_badargs.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_badargs.py
+END
+lex_rule3.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_rule3.py
+END
+cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/cleanup.sh
+END
+lex_token2.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_token2.py
+END
+calclex.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/calclex.py
+END
+yacc_error3.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_error3.py
+END
+lex_state_norule.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_state_norule.py
+END
+lex_state4.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_state4.py
+END
+testyacc.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/testyacc.py
+END
+yacc_nested.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_nested.py
+END
+yacc_badprec3.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_badprec3.py
+END
+yacc_rr.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_rr.py
+END
+yacc_sr.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_sr.py
+END
+lex_error3.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_error3.py
+END
+lex_literal1.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_literal1.py
+END
+lex_state_try.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_state_try.py
+END
+yacc_dup.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_dup.py
+END
+lex_module.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_module.py
+END
+lex_doc1.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_doc1.py
+END
+lex_re1.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_re1.py
+END
+yacc_uprec2.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_uprec2.py
+END
+lex_rule2.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_rule2.py
+END
+lex_empty.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_empty.py
+END
+lex_token1.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_token1.py
+END
+yacc_error2.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_error2.py
+END
+lex_state3.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_state3.py
+END
+lex_token5.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_token5.py
+END
+yacc_badprec2.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_badprec2.py
+END
+lex_dup3.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_dup3.py
+END
+lex_error2.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_error2.py
+END
+lex_closure.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_closure.py
+END
+testlex.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/testlex.py
+END
+yacc_missing1.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_missing1.py
+END
+yacc_literal.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_literal.py
+END
+lex_optimize3.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_optimize3.py
+END
+lex_many_tokens.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_many_tokens.py
+END
+yacc_badprec.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_badprec.py
+END
+lex_rule1.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_rule1.py
+END
+yacc_nodoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_nodoc.py
+END
+lex_hedit.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_hedit.py
+END
+lex_optimize.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_optimize.py
+END
+yacc_error1.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_error1.py
+END
+lex_state2.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_state2.py
+END
+yacc_notfunc.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_notfunc.py
+END
+lex_token4.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_token4.py
+END
+lex_ignore2.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_ignore2.py
+END
+lex_object.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_object.py
+END
+lex_dup2.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_dup2.py
+END
+lex_error1.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_error1.py
+END
+yacc_term1.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_term1.py
+END
+yacc_notok.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_notok.py
+END
+lex_optimize2.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_optimize2.py
+END
+yacc_nop.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_nop.py
+END
+lex_ignore.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_ignore.py
+END
+lex_token_dup.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_token_dup.py
+END
+yacc_misplaced.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_misplaced.py
+END
+lex_re3.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_re3.py
+END
+yacc_unused.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_unused.py
+END
+yacc_badtok.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_badtok.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/README
+END
+yacc_prec1.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_prec1.py
+END
+lex_state1.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_state1.py
+END
+lex_token3.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_token3.py
+END
+yacc_inf.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_inf.py
+END
+yacc_error4.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_error4.py
+END
+yacc_badrule.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_badrule.py
+END
+yacc_uprec.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_uprec.py
+END
+lex_state5.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_state5.py
+END
+lex_dup1.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_dup1.py
+END
+lex_opt_alias.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_opt_alias.py
+END
+lex_error4.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_error4.py
+END
+yacc_noerror.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/yacc_noerror.py
+END
+lex_literal2.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_literal2.py
+END
+lex_module_import.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/third_party/ply-3.1/test/lex_module_import.py
+END

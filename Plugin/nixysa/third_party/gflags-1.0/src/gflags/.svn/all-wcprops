@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags
+END
+gflags_completions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags/gflags_completions.h
+END
+gflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags/gflags.h
+END
+gflags_completions.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags/gflags_completions.h.in
+END
+gflags.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/third_party/gflags-1.0/src/gflags/gflags.h.in
+END
