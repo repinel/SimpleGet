@@ -18,7 +18,7 @@
 
 extern "C" {
   const char *NP_GetMIMEDescription(void) {
-    return "application/x-simplegetplugin::Connects the Simple Get extesion to the download managers";
+    return "application/x-simplegetplugin::Connects the Simple Get extension to the download managers";
   }
 
   NPError NP_GetValue(NPP instance, NPPVariable variable, void *value) {
@@ -27,7 +27,7 @@ extern "C" {
         *static_cast<const char **>(value) = "Simple Get Plugin";
         break;
       case NPPVpluginDescriptionString:
-        *static_cast<const char **>(value) = "Connects the Simple Get extesion to the download managers";
+        *static_cast<const char **>(value) = "Connects the Simple Get extension to the download managers";
         break;
       default:
         return NPERR_INVALID_PARAM;
