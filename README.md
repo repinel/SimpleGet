@@ -1,3 +1,6 @@
+*This project has been discontinued. Please refer to the [uGet Integration](https://github.com/repinel/uGetIntegration) page.*
+
+
 Simple Get
 =========
 
